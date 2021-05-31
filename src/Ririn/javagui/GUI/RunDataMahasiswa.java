@@ -8,7 +8,7 @@ public class RunDataMahasiswa {
             jFrame.setContentPane(new DataMahasiswa().getDatamhs());
             jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             jFrame.setLocationRelativeTo(null);
-            jFrame.setSize(500,400);
+            jFrame.setSize(700,600);
             jFrame.setVisible(true);
         }
     }
